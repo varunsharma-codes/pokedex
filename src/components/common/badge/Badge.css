@@ -1,0 +1,17 @@
+.pokedex-badge {
+  display: inline-flex;
+  vertical-align: middle;
+  align-items: center;
+  justify-content: center;
+  min-width: 12px;
+  background: #fff;
+  height: 16px;
+  line-height: normal;
+  border-radius: 8px;
+  font-size: 10px;
+  padding: 0 2px;
+  margin: 0 4px;
+  white-space: nowrap;
+  text-align: center;
+  color: #e3350d;
+}
